@@ -1,0 +1,10 @@
+{
+  "name": "Daywell — Make room for your life",
+  "short_name": "Daywell",
+  "description": "A calm, private space to plan your day, build habits, and reflect on your wellbeing.",
+  "start_url": "./index.html#today",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#f7f5ef",
+  "icons": [{"src":"./daywell-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
